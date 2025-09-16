@@ -10,7 +10,7 @@ Os desafios do [Frontend Mentor](https://www.frontendmentor.io) ajudam você a m
 
 Neste projeto, o desafio é construir este cartão de visualização de blog e deixá-lo o mais próximo possível do design original:
 
-<img src="./blog-preview-card-main/blog-preview-card-main/preview.jpg" alt="Preview" width="300" />
+<img src="./blog-preview-card-main/blog-preview-card-main/preview.jpg" alt="Preview" width="600" />
 
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
