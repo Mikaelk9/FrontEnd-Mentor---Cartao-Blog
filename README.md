@@ -12,15 +12,14 @@ Neste projeto, o desafio é construir este cartão de visualização de blog e d
 
 <img src="./blog-preview-card-main/blog-preview-card-main/preview.jpg" alt="Preview" width="600" />
 
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
+## Visualização 
+Acesse o resultado final do desafio clicando em [Visualização do cartão do blog](https://front-end-mentor-cartao-blog.vercel.app)
 
 ## Tecnologias Usadas
 - Html
 - Css
 
-## Visualização 
-Acesse o resultado final do desafio clicando em [Visualização do cartão do blog](https://front-end-mentor-cartao-blog.vercel.app)
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
