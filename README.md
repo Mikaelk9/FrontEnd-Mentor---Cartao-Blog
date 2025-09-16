@@ -22,5 +22,5 @@ Neste projeto, o desafio é construir este cartão de visualização de blog e d
 - Css
 
 ## Visualização 
-Acesse o resultado final do desafio clicando em [Visualização do cartão do blog](https://www.frontendmentor.io)
+Acesse o resultado final do desafio clicando em [Visualização do cartão do blog](https://front-end-mentor-cartao-blog.vercel.app)
 
