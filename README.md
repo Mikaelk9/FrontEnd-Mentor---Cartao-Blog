@@ -1,0 +1,26 @@
+# Frontend Mentor - Cartão de Visualização de Blog
+
+## Descrição! 👋
+
+Este projeto é feito com base no desafio encontrado no site [Frontend Mentor](https://www.frontendmentor.io).
+
+Os desafios do [Frontend Mentor](https://www.frontendmentor.io) ajudam você a melhorar suas habilidades de codificação, criando projetos realistas.
+
+## O desafio
+
+Neste projeto, o desafio é construir este cartão de visualização de blog e deixá-lo o mais próximo possível do design original:
+
+<img src="./design/desktop-design.jpg" alt="Preview" width="300" />
+
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+
+## Tecnologias Usadas
+- Html
+- Css
+
+## Visualização 
+Acesse o resultado final do desafio clicando em [Visualização do cartão do blog](https://www.frontendmentor.io)
+
